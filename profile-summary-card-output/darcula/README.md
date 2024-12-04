@@ -25,10 +25,40 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/darcula/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/darcula/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/darcula/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/darcula/4-productive-time.svg)
 ```
 
     
