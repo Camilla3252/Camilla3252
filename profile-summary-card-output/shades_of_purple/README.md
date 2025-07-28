@@ -15,26 +15,6 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/shades_of_purple/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Camilla3252/Camilla3252/master/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
